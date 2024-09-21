@@ -1,4 +1,7 @@
-HEAD
+ HEAD
+echo "Best"
+echo "School"
+ update_script
 #!/bin/bash
 echo "Best school"
- update_script
+ 
